@@ -36,8 +36,5 @@ Example of Dashboard page when user is signed in:
 
 ![example jobsearch](./assets/dashboard.png) 
 
-## Questions
-GitHub profile: [vlada-caban](https://github.com/vlada-caban)
-
 ## License 
 License: MIT
